@@ -1,9 +1,17 @@
+# Update (September 2025)
+
+This repository is archived, and is no longer recommended.
+This tool has been superseded by **[Quilt](https://github.com/KulaWorkshop/Quilt/)**, a powerful alternative for working with **Pak** files and other formats.
+
+## PakTool (Original)
+
 A simple tool that allows for the extraction and creation of custom PAK files for the Kula World games. This tool can be used for compressing custom made levels into a .PAK
 file readable by the game's engine. This tool can also be used for extracting levels from the .PAK file so they can viewed and edited easily. For more information on the .PAK file structure, please visit: http://wiki.kulaworkshop.net/index.php/.PAK_Files. This tool currently supports:
-  - Kula World
-  - Roll Away
-  - Kula Quest
-  - Most of the Demos
+
+-   Kula World
+-   Roll Away
+-   Kula Quest
+-   Most of the Demos
 
 How to Extract PAK Files: Drag and drop the .PAK file onto the "Extract PAK File.exe" or "Extract PAK File.py". A folder will be created in the same directory containing all of the extracted levels from the PAK file.
 
